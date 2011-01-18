@@ -17,5 +17,4 @@ fi
 sleep 1
 
 done
-echo oki
 
